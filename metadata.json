@@ -1,0 +1,7 @@
+{
+  "name": "SmartTour Paniai",
+  "description": "WebGIS system for tourism recommendation in Paniai Regency using Content-Based Filtering.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
